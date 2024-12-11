@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 # Tu API key de Google Cloud para acceder a Google Places API
-API_KEY = 'AaSyCaWD4JyPmIzQSKcnTXU5JHo2jZaksW_KzJo'
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxx'
 
 # Función para buscar el negocio en Google Places y obtener reseñas
 def obtener_resenas_google(nombre_negocio):
