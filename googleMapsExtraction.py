@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # Tu API Key de Google Places
-API_KEY = 'AaSyCaWD4JyPmIzQSKcnTXU5JHo2jZaksW_KzJo'
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Definir el radio en metros
 radius = 1000  # 1 km
